@@ -1,0 +1,10 @@
+Package: org.mozilla.firefox
+Section: web
+Priority: optional
+Installed-Size: 229903
+Maintainer: pzm9012 <pzm9012@outlook.com>
+Homepage: https://www.mozilla.org/zh-CN/firefox/
+Architecture: amd64
+Version: 116.0.3
+Depends: libdbus-glib-1-2, deepin-elf-verify (>= 1.1.10-1)
+Description: No shady privacy policies or back doors for advertisers. Just a lightning fast browser that doesn't sell you out. 
